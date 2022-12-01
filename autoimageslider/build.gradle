@@ -3,6 +3,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'maven-publish'
 
 android {
+    namespace 'com.eslamhamouda.autoimageslider'
     compileSdkVersion 32
 
 
